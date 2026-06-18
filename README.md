@@ -1,4 +1,4 @@
-# Rollaball
+# Roll-a-paws
 
 A 3D arcade game built in Unity (URP) featuring responsive physics-based mechanics, customized shaders, and optimized layouts for web-based distribution.
 
